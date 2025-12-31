@@ -4954,6 +4954,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
   'Celebi',
 
 ],
+unbanlist: ['Swampert + Sheer Force','Linoone + Reckless']
 	},
 	{
 		name: "[Gen 3] RU",
